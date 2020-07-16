@@ -143,6 +143,9 @@ img {
 .map {
 	text-align: center;
 }
+div.block_a {
+	float: left;
+}
 
 /* contact.html */
 form div {
